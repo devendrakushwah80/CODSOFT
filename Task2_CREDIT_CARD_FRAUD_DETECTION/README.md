@@ -8,7 +8,7 @@ Every year, millions of people lose money because of fraudulent credit card tran
 So I decided to build a **Fraud Detection System** that can automatically spot suspicious transactions  
 — using **Machine Learning** and a bit of smart data balancing 🧠.
 
-The dataset used is from **Kaggle (Kartik Shenoy’s Credit Card Fraud Dataset)**.  
+The dataset used is from **Kaggle ([Kartik Shenoy’s Credit Card Fraud Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection?utm_source=chatgpt.com))**.  
 It contains thousands of transactions labeled as either **fraudulent (1)** or **legitimate (0)**.
 
 ---
